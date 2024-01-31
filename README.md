@@ -10,6 +10,8 @@ The fall detection system utilizes a smartwatch's gyroscope sensor to capture mo
 # Requirements
 * Python
 * Smartwatch
+# Input Form
+![Screenshot 2023-11-26 124353](https://github.com/suryar17/DEVELOP-A-FALL-DETECTION-SYSTEM-FOR-OLDER-ADULTS-USING-SMARTWATCH/assets/75236145/aefd3201-0df4-449f-9122-a050dca35bf2)
 # program
 ```python
 import pandas as pd
